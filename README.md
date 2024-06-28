@@ -1,4 +1,4 @@
-Sure! Here's your updated profile with C# and Android Studio added to your tech stack:
+
 
 # 💫 About Me:
 🔭 Currently pursuing a Master of Computer Applications (MCA) degree at Rajagiri College Of Social Sciences<br>🌱 I’m currently learning Full Stack Development <br> 
@@ -18,6 +18,4 @@ Sure! Here's your updated profile with C# and Android Studio added to your tech 
 ---
 [![](https://visitcount.itsvg.in/api?id=sarathchandranm2001&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-Feel free to let me know if there's anything else you'd like to add or modify!
