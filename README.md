@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently pursuing a Master of Computer Applications (MCA) degree at Rajagiri College Of Social Sciences<br>🌱 Currently learning Full Stack Development<br>
+🔭 Currently pursuing a Master of Computer Applications (MCA) degree at Rajagiri College Of Social Sciences<br>🌱 Currently learning Python-Django<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sarath___chandran_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarath-chandran-8899632b7) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24838489) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Sarath2001m)
