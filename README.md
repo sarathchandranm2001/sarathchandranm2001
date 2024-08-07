@@ -11,7 +11,7 @@
 <p align="center">
   🎓 <strong>Master of Computer Applications (MCA)</strong> student at <em>Rajagiri College Of Social Sciences</em><br>
   🌱 Currently mastering <strong>Python-Django</strong><br>
-  💻 Passionate about coding and building innovative solutions
+  
 </p>
 
 <h2 align="center">🌐 Connect with Me</h2>
