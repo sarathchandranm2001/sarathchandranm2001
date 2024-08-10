@@ -10,7 +10,7 @@
 
 <p align="center">
   🎓 <strong>Master of Computer Applications (MCA)</strong> student at <em>Rajagiri College Of Social Sciences</em><br>
-  🌱 Currently mastering <strong>Python-Django</strong><br>
+  🌱 Currently mastering <strong>MERN STACK</strong><br>
   
 </p>
 
