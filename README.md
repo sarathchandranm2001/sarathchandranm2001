@@ -1,21 +1,25 @@
-<h1 align="center">
+# Sarath Chandran M
+
+## 👋 Welcome
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=👋+Hi+there!;I'm+Sarath+Chandran+M;Welcome+to+my+profile!" alt="Typing SVG" />
-</h1>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sarathchandranm2001&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h2 align="center">💫 About Me</h2>
+---
 
+## 💫 About Me
 <p align="center">
   🎓 <strong>Master of Computer Applications (MCA)</strong> student at <em>Rajagiri College Of Social Sciences</em><br>
   🌱 Currently mastering <strong>MERN STACK</strong><br>
-  
 </p>
 
-<h2 align="center">🌐 Connect with Me</h2>
+---
 
+## 🌐 Connect with Me
 <p align="center">
   <a href="https://instagram.com/sarath___chandran_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://linkedin.com/in/sarath-chandran-8899632b7"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -23,10 +27,11 @@
   <a href="https://x.com/@Sarath2001m"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" /></a>
 </p>
 
-<h2 align="center">💻 Tech Profile</h2>
+---
 
-<h3 align="center">🔧 Languages</h3>
+## 💻 Tech Profile
 
+### 🔧 Languages
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -39,8 +44,7 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-<h3 align="center">🛠️ Frameworks & Libraries</h3>
-
+### 🛠️ Frameworks & Libraries
 <p align="center">
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
@@ -52,8 +56,7 @@
   <img src="https://img.shields.io/badge/.net-%231572B6.svg?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
 </p>
 
-<h3 align="center">🗄️ Databases</h3>
-
+### 🗄️ Databases
 <p align="center">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
@@ -62,16 +65,16 @@
   <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-<h3 align="center">🛠️ Tools</h3>
-
+### 🛠️ Tools
 <p align="center">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/android%20studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
 </p>
 
-<h2 align="center">📊 GitHub Odyssey</h2>
+---
 
+## 📊 GitHub Odyssey
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sarathchandranm2001&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 </p>
