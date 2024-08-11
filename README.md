@@ -23,7 +23,7 @@
   <a href="https://x.com/@Sarath2001m"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" /></a>
 </p>
 
-<h2 align="center">💻 Tech Arsenal</h2>
+<h2 align="center">💻 Tech Profile</h2>
 
 <h3 align="center">🔧 Languages</h3>
 
