@@ -13,7 +13,7 @@
 
 ## 💫 About Me
 <p align="center">
-  🎓 <strong>Master of Computer Applications (MCA)</strong> student at <em>Rajagiri College Of Social Sciences</em><br>
+  🎓 <strong>Master of Computer Applications </strong> student at <em>Rajagiri College Of Social Sciences</em><br>
   🌱 Currently mastering <strong>MERN STACK</strong><br>
 </p>
 
