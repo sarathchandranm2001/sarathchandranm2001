@@ -21,7 +21,7 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://instagram.com/sarath___chandran_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  
   <a href="https://linkedin.com/in/sarath-chandran-8899632b7"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://stackoverflow.com/users/24838489"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
   <a href="https://x.com/@Sarath2001m"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" /></a>
