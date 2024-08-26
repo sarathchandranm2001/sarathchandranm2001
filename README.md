@@ -1,4 +1,4 @@
-# Sarath Chandran M
+# Sarath 
 
 ## 👋 Welcome
 <p align="center">
